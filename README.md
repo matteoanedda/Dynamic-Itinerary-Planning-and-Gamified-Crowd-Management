@@ -6,5 +6,6 @@ This study explores the use of Large Language Models (LLMs) to mitigate post-eve
 To proceed with running the full project the numerical order must be followed:
 1. Selezione-POIs-Knowledge-Graph
 2. Generazione-Matrice-Distanze-Docker
-3. Model_Finetuning
-4. Mistral_finetunato_itinerary_MCQS
+3. Dataset Fine tuning Generator
+4. Model_Finetuning
+5. Mistral_finetunato_itinerary_MCQS
