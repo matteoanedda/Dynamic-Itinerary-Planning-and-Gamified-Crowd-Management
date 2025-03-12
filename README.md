@@ -11,5 +11,5 @@ To proceed with running the full project the numerical order must be followed:
 5. Mistral_finetunato_itinerary_MCQS
 
 
-The fine tuning Dataset is available in Hugging Face: https://huggingface.co/datasets/matteanedda/path_selection_bidirectionality_and_connection_understanding_master
-The Fine tuned model is available in Hugging Face: https://huggingface.co/matteanedda/Itinerary_Selection_Mistral 
+- The fine tuning Dataset is available in Hugging Face: https://huggingface.co/datasets/matteanedda/path_selection_bidirectionality_and_connection_understanding_master
+- The Fine tuned model is available in Hugging Face: https://huggingface.co/matteanedda/Itinerary_Selection_Mistral 
